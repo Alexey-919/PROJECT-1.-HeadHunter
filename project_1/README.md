@@ -6,10 +6,10 @@
 [:one: Описание проекта](#arrow_forward-описание-проекта)  
 [:two: Организационная информация](#arrow_forward-организационная-информация)  
 [:three: Этапы работы над проектом](#arrow_forward-этапы-работы-над-проектом)  
-[:four: Результат](#результат)        
-[:five: Установка проекта](#установка-проекта)   
-[:six: Авторы](#авторы)  
-[:seven: Выводы](#выводы)  
+[:four: Результат](#arrow_forward-результат)        
+[:five: Установка проекта](#arrow_forward-установка-проекта)   
+[:six: Авторы](#arrow_forward-авторы)  
+[:seven: Выводы](#arrow_forward-выводы)  
 
 
 ### :arrow_forward: Описание проекта    
@@ -73,6 +73,8 @@
 ```
 git clone https://github.com/Alexey-919/PROJECT-1.-HeadHunter
 ```
+
+Внимание: так как основное датасет большого размера, скачать его можно по [ссылке.](https://drive.google.com/file/d/1w5GQs7jkbyQ_Q37lqs5ioDCdyAea5875/view?usp=share_link)
 
 ### :arrow_forward: Авторы
 
